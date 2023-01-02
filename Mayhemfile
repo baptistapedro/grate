@@ -1,0 +1,4 @@
+project: grate
+target: grate
+cmds:
+  - cmd: /grater @@
